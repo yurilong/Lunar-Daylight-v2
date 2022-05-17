@@ -106,7 +106,7 @@
   }, {
     "@id" : "http://example.org/iiif/book1/range/intro",
     "@type" : "sc:Range",
-    "label" : "Introduction",
+    "label" : "William Benson",
     "canvases" : [ "http://5c8b6185-01d8-434c-9331-905c4f8d6eac" ]
   } ]
 }
