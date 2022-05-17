@@ -1,0 +1,13 @@
+{
+  "id" : "https://yurilong.github.io/Lunar-Daylight-v2/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in yurilong/Lunar-Daylight-v2 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/manifests/manifest.json",
+    "label" : "Lunar Daylight v.1"
+  } ]
+}
