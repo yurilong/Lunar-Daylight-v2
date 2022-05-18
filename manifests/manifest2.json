@@ -60,7 +60,7 @@
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://iiif.archivelab.org/iiif/20220516-lunareclipse-1",
+            "@id" : "https://iiif.archivelab.org/iiif/20220516-lunareclipse-2",
             "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
           },
           "height" : 4800,
@@ -73,8 +73,8 @@
       "@id" : "http://806285e3-6473-4786-b2b8-028d333f48c6",
       "@type" : "sc:Canvas",
       "label" : "First Quarter Moon",
-      "height" : 4000,
-      "width" : 3000,
+      "height" : 4800,
+      "width" : 4800,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://ac289b2b-bad7-437a-b527-1ea89d4ae4b4",
