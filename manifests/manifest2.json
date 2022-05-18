@@ -55,7 +55,7 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://iiif.archivelab.org/iiif/20220516-lunareclipse-1/full/full/0/default.jpg",
+          "@id" : "https://iiif.archivelab.org/iiif/20220516-lunareclipse-2/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
