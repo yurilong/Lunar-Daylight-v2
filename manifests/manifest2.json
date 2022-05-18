@@ -48,7 +48,7 @@
       "@type" : "sc:Canvas",
       "label" : "Lunar Eclipse - May 2022",
       "height" : 4800,
-      "width" : 3600,
+      "width" : 4800,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://f3b23833-e153-4ef1-a95f-eb51fc8d904e",
@@ -64,7 +64,7 @@
             "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
           },
           "height" : 4800,
-          "width" : 3600
+          "width" : 4800
         },
         "on" : "http://6551973f-69a1-450b-9a5b-df30015b6f87"
       } ],
