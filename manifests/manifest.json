@@ -48,14 +48,14 @@
       "@type" : "sc:Canvas",
       "label" : "Lunar Eclipse - May 2022",
       "height" : 4800,
-      "width" : 3600,
+      "width" : 4800,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://f3b23833-e153-4ef1-a95f-eb51fc8d904e",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://iiif.archivelab.org/iiif/20220516-lunareclipse-1/full/full/0/default.jpg",
+          "@id" : "https://iiif.archivelab.org/iiif/20220516-lunareclipse-2/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
@@ -64,7 +64,7 @@
             "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
           },
           "height" : 4800,
-          "width" : 3600
+          "width" : 4800
         },
         "on" : "http://6551973f-69a1-450b-9a5b-df30015b6f87"
       } ],
@@ -73,8 +73,8 @@
       "@id" : "http://806285e3-6473-4786-b2b8-028d333f48c6",
       "@type" : "sc:Canvas",
       "label" : "First Quarter Moon",
-      "height" : 4000,
-      "width" : 3000,
+      "height" : 4800,
+      "width" : 4800,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://ac289b2b-bad7-437a-b527-1ea89d4ae4b4",
