@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1440,
+    "id" : "https://yurilong.github.io/Lunar-Daylight-v2/images/20220509_firstquarter_daylight-1/canvas/",
+    "label" : {
+      "none" : [ "20220509_firstquarter_daylight-1" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://yurilong.github.io/Lunar-Daylight-v2/images/20220509_firstquarter_daylight-1/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://yurilong.github.io/Lunar-Daylight-v2/images/20220509_firstquarter_daylight-1/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 45,
+              "height" : 60
+            }, {
+              "width" : 90,
+              "height" : 120
+            }, {
+              "width" : 180,
+              "height" : 240
+            }, {
+              "width" : 360,
+              "height" : 480
+            }, {
+              "width" : 720,
+              "height" : 960
+            }, {
+              "width" : 1440,
+              "height" : 1920
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1440,
+            "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/images/20220509_firstquarter_daylight-1",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1920
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1440,
+          "id" : "https://yurilong.github.io/Lunar-Daylight-v2/images/20220509_firstquarter_daylight-1/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1920
+        },
+        "target" : "https://yurilong.github.io/Lunar-Daylight-v2/images/20220509_firstquarter_daylight-1/canvas/"
+      } ]
+    } ],
+    "height" : 1920
+  }, {
     "width" : 1800,
     "id" : "https://yurilong.github.io/Lunar-Daylight-v2/images/20220516_lunareclipse-2/canvas/",
     "label" : {
