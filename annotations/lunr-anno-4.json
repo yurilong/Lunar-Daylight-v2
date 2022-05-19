@@ -1,0 +1,88 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">One of he minor stars in the constellation Libra, usually washed out by the glow of the full moon is visible during a lunar eclipse in May 2022.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">One of he minor stars in the constellation Libra, usually washed out by the glow of the full moon is visible during a lunar eclipse in May 2022.</span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "star",
+      "@type" : "oa:Tag",
+      "chars" : "star"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "libra",
+      "@type" : "oa:Tag",
+      "chars" : "libra"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105740737",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-05-19T12:58:58",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1652965138608",
+    "dcterms:modified" : "2022-05-19T18:22:01",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/manifests/lunr-manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1497,1659,25,37"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1509.79483,1696.29863c0,-8.32917 4.16458,-16.65835 12.49375,-24.98751c0,-6.90011 -5.59364,-12.49375 -12.49375,-12.49375c-6.90011,0 -12.49375,5.59364 -12.49375,12.49375c8.32917,8.32917 12.49375,16.65835 12.49375,24.98751z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"pin_8c7d6a4e-4edf-4cbf-8116-746696aa758a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"14.9925\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://2e3e3dee-934a-4d1e-af3a-af619d244be9"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "One of the minor stars in the constellation Libra, usually washed out by the glow of the full moon is visible during a lunar eclipse in May 2022.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>One of the minor stars in the constellation Libra, usually washed out by the glow of the full moon is visible during a lunar eclipse in May 2022.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "star",
+      "@type" : "oa:Tag",
+      "chars" : "star"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "libra",
+      "@type" : "oa:Tag",
+      "chars" : "libra"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105740737",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-05-19T12:58:15",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1652965095996",
+    "dcterms:modified" : "2022-05-19T18:21:52",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/manifests/lunr-manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=719,51,27,40"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M732.68366,91.75412c0,-8.9955 4.49775,-17.991 13.49325,-26.98654c0,-7.45214 -6.04114,-13.49325 -13.49325,-13.49325c-7.45214,0 -13.49325,6.04114 -13.49325,13.49325c8.9955,8.9955 13.49325,17.991 13.49325,26.98654z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"pin_11d7c4cf-09fe-4a78-8ac4-40e583b3a7e5\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"16.1919\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://2e3e3dee-934a-4d1e-af3a-af619d244be9"
+    } ]
+  } ],
+  "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/annotations/lunr-anno-4.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
