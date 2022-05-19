@@ -1,0 +1,407 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/manifests/lunr-manifest2.json",
+  "@type" : "sc:Manifest",
+  "label" : "lun.r ",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Images of the Moon, 2021-2022",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "The Antiquated Modern",
+  "sequences" : [ {
+    "@id" : "http://c7308be9-3c48-4f03-ae6d-d8605f0d65b7",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://4b60adc0-2049-46b8-9c7a-959001ff8b21",
+      "@type" : "sc:Canvas",
+      "label" : "Luna, Jupiter, Venus, Mars and Saturn at Sunrise, April 27, 2022, Washington, DC",
+      "height" : 1440,
+      "width" : 1920,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://fb451bb9-baec-4a37-b30d-5bc8c414eb3e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/images/20220427_wancres_jupvenmarsat-1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/images/20220427_wancres_jupvenmarsat-1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1440,
+          "width" : 1920
+        },
+        "on" : "http://4b60adc0-2049-46b8-9c7a-959001ff8b21"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://9c5ecdef-2974-4f2c-894a-46cd706258e6",
+      "@type" : "sc:Canvas",
+      "label" : "Partial Solar Eclipse, June 10, 2021, Washington, DC",
+      "height" : 1920,
+      "width" : 1440,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b39fa58f-34d1-49e5-b0c7-e1b95146604a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/images/2021_transientphenomena_web-6e/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/images/2021_transientphenomena_web-6e",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1920,
+          "width" : 1440
+        },
+        "on" : "http://9c5ecdef-2974-4f2c-894a-46cd706258e6"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://2e3e3dee-934a-4d1e-af3a-af619d244be9",
+      "@type" : "sc:Canvas",
+      "label" : "Lunar Eclipse, May 16, 2022, Washington, DC",
+      "height" : 1800,
+      "width" : 1800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://6f581ee8-e637-46f8-a5fc-2a71137d8a14",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/images/20220516_lunareclipse-2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/images/20220516_lunareclipse-2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1800,
+          "width" : 1800
+        },
+        "on" : "http://2e3e3dee-934a-4d1e-af3a-af619d244be9"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://cfd30051-0d3c-490a-9731-a1dbead305ec",
+      "@type" : "sc:Canvas",
+      "label" : "First Quarter Moon, May 9, 2022, Washington, DC",
+      "height" : 1920,
+      "width" : 1440,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://fdbcb741-2a6e-402b-920a-77f91f8dba50",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/images/20220509_firstquarter_daylight-1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/images/20220509_firstquarter_daylight-1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1920,
+          "width" : 1440
+        },
+        "on" : "http://cfd30051-0d3c-490a-9731-a1dbead305ec"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://7f01b4a7-49fc-43c4-833e-0191aba5bae0",
+      "@type" : "sc:Canvas",
+      "label" : "Luna as a Runge Sphere",
+      "height" : 1920,
+      "width" : 1920,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3a52d539-9307-4081-82d6-f61a53bcd833",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/images/2022_lunarcolors-9/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/images/2022_lunarcolors-9",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1920,
+          "width" : 1920
+        },
+        "on" : "http://7f01b4a7-49fc-43c4-833e-0191aba5bae0"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://c7a1f50f-6a26-4319-889d-4ef2a54f7cf3",
+      "@type" : "sc:Canvas",
+      "label" : "title page from Philipp Otto Runge, Farben-Kugel, Hamburg, 1810",
+      "height" : 4800,
+      "width" : 3601,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a3e096bb-4a38-4eaa-b624-006a759f831e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://api.nga.gov/iiif/fa3d2b06-8040-4a83-b25c-baf2594a92b8/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://api.nga.gov/iiif/fa3d2b06-8040-4a83-b25c-baf2594a92b8",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "rotationBy90s", "mirroring" ]
+            } ]
+          },
+          "height" : 4800,
+          "width" : 3601
+        },
+        "on" : "http://c7a1f50f-6a26-4319-889d-4ef2a54f7cf3"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://bdf7f3d6-27c1-4490-930c-b9195d82333e",
+      "@type" : "sc:Canvas",
+      "label" : "plate 1 from Philipp Otto Runge, Farben-Kugel, Hamburg, 1810",
+      "height" : 4800,
+      "width" : 3601,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://eed74873-86cb-4adc-b09f-e798070d348b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://api.nga.gov/iiif/42cf0c1f-be92-4133-879c-33945a4d50c3/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://api.nga.gov/iiif/42cf0c1f-be92-4133-879c-33945a4d50c3",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "rotationBy90s", "mirroring" ]
+            } ]
+          },
+          "height" : 4800,
+          "width" : 3601
+        },
+        "on" : "http://bdf7f3d6-27c1-4490-930c-b9195d82333e"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://f8653057-1531-4bc2-b6b0-24d851d27ccd",
+      "@type" : "sc:Canvas",
+      "label" : "title page from William Benson, Principles of the Science of Colour, London, 1868",
+      "height" : 4800,
+      "width" : 3851,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://471916cb-58d7-4e88-90e8-d944355fa05e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://api.nga.gov/iiif/57357340-64fe-4627-985e-2c01149a5c56/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://api.nga.gov/iiif/57357340-64fe-4627-985e-2c01149a5c56",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "rotationBy90s", "mirroring" ]
+            } ]
+          },
+          "height" : 4800,
+          "width" : 3851
+        },
+        "on" : "http://f8653057-1531-4bc2-b6b0-24d851d27ccd"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://7a9c276b-2a6b-4f82-b297-2f06ca5c8ca8",
+      "@type" : "sc:Canvas",
+      "label" : "color chart 3 from William Benson, Principles of the Science of Colour, London, 1868",
+      "height" : 4800,
+      "width" : 3849,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e5923b46-61c9-4080-afb7-9d6706ee5cc0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://api.nga.gov/iiif/f436878e-9124-44cf-ba68-6bd926f5b4d2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://api.nga.gov/iiif/f436878e-9124-44cf-ba68-6bd926f5b4d2",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "rotationBy90s", "mirroring" ]
+            } ]
+          },
+          "height" : 4800,
+          "width" : 3849
+        },
+        "on" : "http://7a9c276b-2a6b-4f82-b297-2f06ca5c8ca8"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://c9a830ba-17aa-493a-b599-6ca65ec63933",
+      "@type" : "sc:Canvas",
+      "label" : "page 29 from William Benson, Principles of the Science of Colour, London, 1868",
+      "height" : 4800,
+      "width" : 3851,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://76165910-5c0a-4c19-8bad-cfdd0daa88c5",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://api.nga.gov/iiif/8b594eab-9ca3-4d59-b506-4127c86a32c8/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://api.nga.gov/iiif/8b594eab-9ca3-4d59-b506-4127c86a32c8",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "rotationBy90s", "mirroring" ]
+            } ]
+          },
+          "height" : 4800,
+          "width" : 3851
+        },
+        "on" : "http://c9a830ba-17aa-493a-b599-6ca65ec63933"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://e3c50a65-4015-40fa-b9d7-6d9fe0eeedae",
+      "@type" : "sc:Canvas",
+      "label" : "page 30 from William Benson, Principles of the Science of Colour, London, 1868",
+      "height" : 4800,
+      "width" : 3849,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://66fd8df7-c8c8-4062-b16f-ac618282fd6c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://api.nga.gov/iiif/dc44a6af-36e4-4a26-b088-82b858c481fa/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://api.nga.gov/iiif/dc44a6af-36e4-4a26-b088-82b858c481fa",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "rotationBy90s", "mirroring" ]
+            } ]
+          },
+          "height" : 4800,
+          "width" : 3849
+        },
+        "on" : "http://e3c50a65-4015-40fa-b9d7-6d9fe0eeedae"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://6308f9b9-36a6-40db-aad1-80718ddc2c35",
+      "@type" : "sc:Canvas",
+      "label" : "color chart 4 from William Benson, Principles of the Science of Colour, London, 1868",
+      "height" : 4800,
+      "width" : 3851,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c49e9b2a-ef22-4f8f-a322-5843430ee63e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://api.nga.gov/iiif/106831e8-ba4c-49e6-8288-b5a65bca28c4/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://api.nga.gov/iiif/106831e8-ba4c-49e6-8288-b5a65bca28c4",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "rotationBy90s", "mirroring" ]
+            } ]
+          },
+          "height" : 4800,
+          "width" : 3851
+        },
+        "on" : "http://6308f9b9-36a6-40db-aad1-80718ddc2c35"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://14ac299e-756f-4682-9b22-88209ddf0336",
+      "@type" : "sc:Canvas",
+      "label" : "The Benson Array",
+      "height" : 1920,
+      "width" : 1920,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f0f1f4fc-c433-49b4-b366-fb046c0bd7b3",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/images/2022_lunarcolors-13/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/images/2022_lunarcolors-13",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1920,
+          "width" : 1920
+        },
+        "on" : "http://14ac299e-756f-4682-9b22-88209ddf0336"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/book1/range/top",
+    "@type" : "sc:Range",
+    "label" : "Table of Content",
+    "viewingHint" : "top",
+    "ranges" : [ "http://example.org/iiif/book1/range/intro" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/intro",
+    "@type" : "sc:Range",
+    "label" : "Philippp Otto Runge",
+    "viewingHint" : "paged",
+    "canvases" : [ "http://c7a1f50f-6a26-4319-889d-4ef2a54f7cf3" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/intro",
+    "@type" : "sc:Range",
+    "label" : "William Benson",
+    "viewingHint" : "paged",
+    "canvases" : [ "http://f8653057-1531-4bc2-b6b0-24d851d27ccd" ]
+  } ]
+}
