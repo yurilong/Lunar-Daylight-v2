@@ -1,0 +1,47 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "sphere",
+      "@type" : "oa:Tag",
+      "chars" : "sphere"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "color",
+      "@type" : "oa:Tag",
+      "chars" : "color"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Runge's color sphere was soon eclipsed by Chevruel's hemispheric system in 1839 and then Munsell's color system in the eraly 20th century. Yet, Runge's illustrations remain some o fthe most beautiful renderings in the history of color theory.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Runge's color sphere was soon eclipsed by Chevruel's hemispheric system in 1839 and then Munsell's color system in the eraly 20th century. Yet, Runge's illustrations remain some o fthe most beautiful renderings in the history of color theory.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105740737",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-05-19T18:17:15",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1652984235056",
+    "dcterms:modified" : "2022-05-19T18:17:15",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/manifests/lunr-manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1580,1055,1211,1201"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2613.33618,1230.73009c-111.80496,-100.83854 -269.52398,-175.92959 -428.00729,-175.83988v0v0c-158.48332,0.08971 -296.54887,70.33618 -428.00729,175.83988c-131.45842,105.5037 -182.55464,266.27097 -177.28643,424.51501c5.26822,158.24405 66.90088,313.96487 177.28643,424.51501c110.38555,110.55014 269.52398,175.92959 428.00729,175.83988c158.48332,-0.08971 316.31152,-65.64859 428.00729,-175.83988c111.69578,-110.19128 177.25913,-265.01496 177.28643,-424.51501c0.0273,-159.50005 -65.48146,-323.67647 -177.28643,-424.51501z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_aad567ae-aa5d-4048-a0f0-0527028081df\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#c15ec7\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://bdf7f3d6-27c1-4490-930c-b9195d82333e"
+    } ]
+  } ],
+  "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/annotations/lunr-anno-6.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
