@@ -3,6 +3,11 @@
   "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/manifests/lunr-manifest3.json",
   "@type" : "sc:Manifest",
   "label" : "lun.r ",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/105740737/3643712c09690463b2810f0891bee0b8/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "Images of the Moon, 2021-2022",
@@ -42,6 +47,11 @@
         },
         "on" : "http://4b60adc0-2049-46b8-9c7a-959001ff8b21"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/annotations/lunr-anno-1.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Planet annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://9c5ecdef-2974-4f2c-894a-46cd706258e6",
@@ -67,6 +77,11 @@
           "width" : 1440
         },
         "on" : "http://9c5ecdef-2974-4f2c-894a-46cd706258e6"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/annotations/lunr-anno-2.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Eclipse annotations"
       } ],
       "related" : ""
     }, {
@@ -156,6 +171,11 @@
         },
         "on" : "http://2e3e3dee-934a-4d1e-af3a-af619d244be9"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/annotations/lunr-anno-4.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Star annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://c7a1f50f-6a26-4319-889d-4ef2a54f7cf3",
@@ -186,6 +206,11 @@
         },
         "on" : "http://c7a1f50f-6a26-4319-889d-4ef2a54f7cf3"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/annotations/lunr-anno-5.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Runge title page annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://bdf7f3d6-27c1-4490-930c-b9195d82333e",
@@ -215,6 +240,11 @@
           "width" : 3601
         },
         "on" : "http://bdf7f3d6-27c1-4490-930c-b9195d82333e"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/annotations/lunr-anno-6.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Runge color plate annotations"
       } ],
       "related" : ""
     }, {
