@@ -400,7 +400,6 @@
     "@id" : "http://example.org/iiif/book1/range/intro",
     "@type" : "sc:Range",
     "label" : "William Benson",
-    "viewingHint" : "paged",
     "canvases" : [ "http://f8653057-1531-4bc2-b6b0-24d851d27ccd" ]
   } ]
 }
