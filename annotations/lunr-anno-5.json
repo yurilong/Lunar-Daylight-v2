@@ -1,0 +1,113 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Runge was a correspondent of Johann Wolfgang van Goethe who published his book Farbenlehre (Theory of Colors)&nbsp; outlining his psychology of color the same year.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Runge was a correspondent of Johann Wolfgang van Goethe who published his book Farbenlehre (Theory of Colors)&nbsp; outlining his psychology of color the same year.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105740737",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-05-19T18:08:17",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1652983697062",
+    "dcterms:modified" : "2022-05-19T18:08:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/manifests/lunr-manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1442,3464,294,99"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1442.19667,3464.12499h146.76045v0h146.76045v49.58682v49.58682h-146.76045h-146.76045v-49.58682z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_cb6a57f3-be21-4a0f-bc9d-915cb290ee29\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#c93dab\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c7a1f50f-6a26-4319-889d-4ef2a54f7cf3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"https://upload.wikimedia.org/wikipedia/commons/e/e4/Philipp_Otto_Runge_005.jpg\" alt=\"portrait painting of Philipp Otto Runge\" width=\"200\" height=\"236\" />Philipp Otto Runge was a&nbsp;German Romantic painter and draughtsman",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><img src=\"https://upload.wikimedia.org/wikipedia/commons/e/e4/Philipp_Otto_Runge_005.jpg\" alt=\"portrait painting of Philipp Otto Runge\" width=\"200\" height=\"236\" />Philipp Otto Runge was a&nbsp;German Romantic painter and draughtsman</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105740737",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-05-19T18:01:15",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1652983275483",
+    "dcterms:modified" : "2022-05-19T18:11:20",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/manifests/lunr-manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1028,1991,1182,110"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1028.48501,1991.4033h591.10495v0h591.10495v54.97301v54.97301h-591.10495h-591.10495v-54.97301z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0.78824,0.23922,0.67059],&quot;editable&quot;:true}\" id=\"rectangle_ea434c17-577c-4b53-b9cf-b0af1cb355bc\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#c93dab\" stroke-width=\"47.97601\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c7a1f50f-6a26-4319-889d-4ef2a54f7cf3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "color",
+      "@type" : "oa:Tag",
+      "chars" : "color"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "sphere",
+      "@type" : "oa:Tag",
+      "chars" : "sphere"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Color-Sphere (or Color-Ball)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Color-Sphere (or Color-Ball)</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105740737",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-05-19T18:13:16",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1652983996283",
+    "dcterms:modified" : "2022-05-19T18:13:16",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/manifests/lunr-manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=785,979,1565,186"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2350.22414,978.70965h-782.6082v0h-782.6082v92.95402v92.95402h782.6082h782.6082v-92.95402z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_f4aa24b3-f6ed-4575-86c2-d660bd64b3ad\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#c15ec7\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c7a1f50f-6a26-4319-889d-4ef2a54f7cf3"
+    } ]
+  } ],
+  "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/annotations/lunr-anno-5.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
