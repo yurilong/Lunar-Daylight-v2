@@ -1,0 +1,211 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The planet Jupiter, about to \"pass\" Venus.&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The planet Jupiter, about to \"pass\" Venus.&nbsp;</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "planet",
+      "@type" : "oa:Tag",
+      "chars" : "planet"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "jupiter",
+      "@type" : "oa:Tag",
+      "chars" : "jupiter"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105740737",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-05-19T12:50:41",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1652964641799",
+    "dcterms:modified" : "2022-05-19T18:20:55",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/manifests/lunr-manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=118,790,24,36"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M130.10054,826.03171c0,-7.996 3.998,-15.99203 11.994,-23.98803c0,-6.62412 -5.36991,-11.994 -11.994,-11.994c-6.62412,0 -11.994,5.36991 -11.994,11.994c7.996,7.996 11.994,15.99203 11.994,23.98803z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"pin_00d31a2a-1fc2-4b2c-b879-7828ab19ae19\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"14.3928\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4b60adc0-2049-46b8-9c7a-959001ff8b21"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The planet Mars, the red planet is the dimmest on this day.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The planet Mars, the red planet is the dimmest on this day.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "planet",
+      "@type" : "oa:Tag",
+      "chars" : "planet"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "mars",
+      "@type" : "oa:Tag",
+      "chars" : "mars"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105740737",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-05-19T12:52:19",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1652964739661",
+    "dcterms:modified" : "2022-05-19T18:21:05",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/manifests/lunr-manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1001,431,12,18"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1006.8052,449.24105c0,-3.998 1.999,-7.99602 5.997,-11.99402c0,-3.31206 -2.68495,-5.997 -5.997,-5.997c-3.31206,0 -5.997,2.68495 -5.997,5.997c3.998,3.998 5.997,7.99602 5.997,11.99402z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"pin_6790e739-558d-434e-9905-28bbb393420d\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"7.1964\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4b60adc0-2049-46b8-9c7a-959001ff8b21"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The planet Venus, brightest object in the dawn sky.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The planet Venus, brightest object in the dawn sky.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "planet",
+      "@type" : "oa:Tag",
+      "chars" : "planet"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "venus",
+      "@type" : "oa:Tag",
+      "chars" : "venus"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105740737",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-05-19T12:51:24",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1652964684684",
+    "dcterms:modified" : "2022-05-19T18:21:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/manifests/lunr-manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=278,735,12,18"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M283.73691,753.30444c0,-3.998 1.999,-7.99602 5.997,-11.99402c0,-3.31206 -2.68495,-5.997 -5.997,-5.997c-3.31206,0 -5.997,2.68495 -5.997,5.997c3.998,3.998 5.997,7.99602 5.997,11.99402z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"pin_67dac09a-0ea0-4604-8609-e24ed752a337\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"7.1964\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4b60adc0-2049-46b8-9c7a-959001ff8b21"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The planet Saturn, furthest to the southeast on it's long, long journey around teh sun.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The planet Saturn, furthest to the southeast on it's long, long journey around teh sun.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "planet",
+      "@type" : "oa:Tag",
+      "chars" : "planet"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "saturn",
+      "@type" : "oa:Tag",
+      "chars" : "saturn"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105740737",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-05-19T12:53:07",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1652964787864",
+    "dcterms:modified" : "2022-05-19T18:21:13",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/manifests/lunr-manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1767,122,23,34"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1778.18182,155.86464c0,-7.54036 3.77018,-15.08075 11.31055,-22.62112c0,-6.24666 -5.06391,-11.31055 -11.31055,-11.31055c-6.24666,0 -11.31055,5.06391 -11.31055,11.31055c7.54036,7.54036 11.31055,15.08075 11.31055,22.62112z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"pin_2a96bf4b-1866-4ee5-9bdd-137cff3c6a68\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"13.57265\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4b60adc0-2049-46b8-9c7a-959001ff8b21"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Luna, waning crescent moon, just above the horizon",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Luna, waning crescent moon, just above the horizon</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "moon",
+      "@type" : "oa:Tag",
+      "chars" : "moon"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "crescent moon",
+      "@type" : "oa:Tag",
+      "chars" : "crescent moon"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105740737",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-05-19T12:49:36",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1652964575092",
+    "dcterms:modified" : "2022-05-19T18:20:52",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/manifests/lunr-manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=215,981,54,58"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M215.09145,980.82634h26.78711v0h26.78711v29.18591v29.18591h-26.78711h-26.78711v-29.18591z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0.72941,0.38039,0.57647],&quot;editable&quot;:true}\" id=\"rectangle_ea1e590c-76a4-4fa5-bf17-fa1fb167c140\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ba6193\" stroke-width=\"14.3928\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4b60adc0-2049-46b8-9c7a-959001ff8b21"
+    } ]
+  } ],
+  "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/annotations/lunr-anno-1.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
