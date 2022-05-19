@@ -44,9 +44,35 @@
       } ],
       "related" : ""
     }, {
+      "@id" : "http://9c5ecdef-2974-4f2c-894a-46cd706258e6",
+      "@type" : "sc:Canvas",
+      "label" : "Partial Solar Eclipse, June 10, 2021, Washington, DC",
+      "height" : 1920,
+      "width" : 1440,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b39fa58f-34d1-49e5-b0c7-e1b95146604a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/images/2021_transientphenomena_web-6e/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/images/2021_transientphenomena_web-6e",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1920,
+          "width" : 1440
+        },
+        "on" : "http://9c5ecdef-2974-4f2c-894a-46cd706258e6"
+      } ],
+      "related" : ""
+    }, {
       "@id" : "http://9f39ae8d-a0f1-4792-9525-ddc348bd3082",
       "@type" : "sc:Canvas",
-      "label" : "First Quarter Moon, May 9, 2022",
+      "label" : "Moon Layers",
       "height" : 1920,
       "width" : 1440,
       "images" : [ {
@@ -85,32 +111,24 @@
           "width" : 1440
         },
         "on" : "http://9f39ae8d-a0f1-4792-9525-ddc348bd3082"
-      } ],
-      "related" : ""
-    }, {
-      "@id" : "http://9c5ecdef-2974-4f2c-894a-46cd706258e6",
-      "@type" : "sc:Canvas",
-      "label" : "Partial Solar Eclipse, June 10, 2021, Washington, DC",
-      "height" : 1920,
-      "width" : 1440,
-      "images" : [ {
+      }, {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://b39fa58f-34d1-49e5-b0c7-e1b95146604a",
+        "@id" : "http://26c321e4-d650-4091-83e8-bd2c71727934",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/images/2021_transientphenomena_web-6e/full/full/0/default.jpg",
+          "@id" : "https://iiif.archivelab.org/iiif/20210421-crescentmoon-1/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/images/2021_transientphenomena_web-6e",
-            "profile" : "http://iiif.io/api/image/2/level0.json"
+            "@id" : "https://iiif.archivelab.org/iiif/20210421-crescentmoon-1",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
           },
           "height" : 1920,
           "width" : 1440
         },
-        "on" : "http://9c5ecdef-2974-4f2c-894a-46cd706258e6"
+        "on" : "http://9f39ae8d-a0f1-4792-9525-ddc348bd3082"
       } ],
       "related" : ""
     }, {
