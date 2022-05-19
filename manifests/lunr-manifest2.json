@@ -44,6 +44,50 @@
       } ],
       "related" : ""
     }, {
+      "@id" : "http://9f39ae8d-a0f1-4792-9525-ddc348bd3082",
+      "@type" : "sc:Canvas",
+      "label" : "First Quarter Moon, May 9, 2022",
+      "height" : 1920,
+      "width" : 1440,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://26c321e4-d650-4091-83e8-bd2c71727934",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/20220509-firstquarter-daylight-1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/20220509-firstquarter-daylight-1",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1920,
+          "width" : 1440
+        },
+        "on" : "http://9f39ae8d-a0f1-4792-9525-ddc348bd3082"
+      }, {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://26c321e4-d650-4091-83e8-bd2c71727934",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/20210225-full-moon-1_202205/355,470,743,725/800,/45/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/20210225-full-moon-1_202205",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1920,
+          "width" : 1440
+        },
+        "on" : "http://9f39ae8d-a0f1-4792-9525-ddc348bd3082#xywh=322,457,801,790"
+      } ],
+      "related" : ""
+    }, {
       "@id" : "http://9c5ecdef-2974-4f2c-894a-46cd706258e6",
       "@type" : "sc:Canvas",
       "label" : "Partial Solar Eclipse, June 10, 2021, Washington, DC",
@@ -93,58 +137,6 @@
           "width" : 1800
         },
         "on" : "http://2e3e3dee-934a-4d1e-af3a-af619d244be9"
-      } ],
-      "related" : ""
-    }, {
-      "@id" : "http://cfd30051-0d3c-490a-9731-a1dbead305ec",
-      "@type" : "sc:Canvas",
-      "label" : "First Quarter Moon, May 9, 2022, Washington, DC",
-      "height" : 1920,
-      "width" : 1440,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://fdbcb741-2a6e-402b-920a-77f91f8dba50",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/images/20220509_firstquarter_daylight-1/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/images/20220509_firstquarter_daylight-1",
-            "profile" : "http://iiif.io/api/image/2/level0.json"
-          },
-          "height" : 1920,
-          "width" : 1440
-        },
-        "on" : "http://cfd30051-0d3c-490a-9731-a1dbead305ec"
-      } ],
-      "related" : ""
-    }, {
-      "@id" : "http://7f01b4a7-49fc-43c4-833e-0191aba5bae0",
-      "@type" : "sc:Canvas",
-      "label" : "Luna as a Runge Sphere",
-      "height" : 1920,
-      "width" : 1920,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://3a52d539-9307-4081-82d6-f61a53bcd833",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/images/2022_lunarcolors-9/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/images/2022_lunarcolors-9",
-            "profile" : "http://iiif.io/api/image/2/level0.json"
-          },
-          "height" : 1920,
-          "width" : 1920
-        },
-        "on" : "http://7f01b4a7-49fc-43c4-833e-0191aba5bae0"
       } ],
       "related" : ""
     }, {
@@ -208,9 +200,35 @@
       } ],
       "related" : ""
     }, {
+      "@id" : "http://7f01b4a7-49fc-43c4-833e-0191aba5bae0",
+      "@type" : "sc:Canvas",
+      "label" : "Luna as a Runge Sphere",
+      "height" : 1920,
+      "width" : 1920,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3a52d539-9307-4081-82d6-f61a53bcd833",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/images/2022_lunarcolors-9/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/images/2022_lunarcolors-9",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1920,
+          "width" : 1920
+        },
+        "on" : "http://7f01b4a7-49fc-43c4-833e-0191aba5bae0"
+      } ],
+      "related" : ""
+    }, {
       "@id" : "http://f8653057-1531-4bc2-b6b0-24d851d27ccd",
       "@type" : "sc:Canvas",
-      "label" : "title page from William Benson, Principles of the Science of Colour, London, 1868",
+      "label" : "title psge from William Benson, Principles of the Science of Colour, London, 1868",
       "height" : 4800,
       "width" : 3851,
       "images" : [ {
@@ -388,14 +406,24 @@
   "structures" : [ {
     "@id" : "http://example.org/iiif/book1/range/top",
     "@type" : "sc:Range",
-    "label" : "Table of Content",
+    "label" : "Table of Contents",
     "viewingHint" : "top",
-    "ranges" : [ "http://example.org/iiif/book1/range/intro" ]
+    "ranges" : [ "http://example.org/iiif/book1/range/long", "http://example.org/iiif/book1/range/runge", "http://example.org/iiif/book1/range/benson" ]
   }, {
-    "@id" : "http://example.org/iiif/book1/range/intro",
+    "@id" : "http://example.org/iiif/book1/range/long",
+    "@type" : "sc:Range",
+    "label" : "Yuri Long",
+    "canvases" : [ "http://4b60adc0-2049-46b8-9c7a-959001ff8b21" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/benson",
     "@type" : "sc:Range",
     "label" : "William Benson",
     "viewingHint" : "paged",
     "canvases" : [ "http://f8653057-1531-4bc2-b6b0-24d851d27ccd" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/runge",
+    "@type" : "sc:Range",
+    "label" : "Philipp Otto Runge",
+    "canvases" : [ "http://c7a1f50f-6a26-4319-889d-4ef2a54f7cf3" ]
   } ]
 }
