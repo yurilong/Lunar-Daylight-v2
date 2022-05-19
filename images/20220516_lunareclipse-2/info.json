@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 57,
+    "height" : 57
+  }, {
+    "width" : 113,
+    "height" : 113
+  }, {
+    "width" : 225,
+    "height" : 225
+  }, {
+    "width" : 450,
+    "height" : 450
+  }, {
+    "width" : 900,
+    "height" : 900
+  }, {
+    "width" : 1800,
+    "height" : 1800
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1800,
+  "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/images/20220516_lunareclipse-2",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1800
+}
