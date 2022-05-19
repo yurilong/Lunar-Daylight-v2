@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 60,
+    "height" : 60
+  }, {
+    "width" : 120,
+    "height" : 120
+  }, {
+    "width" : 240,
+    "height" : 240
+  }, {
+    "width" : 480,
+    "height" : 480
+  }, {
+    "width" : 960,
+    "height" : 960
+  }, {
+    "width" : 1920,
+    "height" : 1920
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1920,
+  "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/images/2022_lunarcolors-9",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1920
+}
