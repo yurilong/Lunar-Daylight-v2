@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://yurilong.github.io/Lunar-Daylight-v2/annotations/lunr-anno-1.json", "https://yurilong.github.io/Lunar-Daylight-v2/annotations/lunr-anno-2.json" ],
+  "otherContent" : [ "https://yurilong.github.io/Lunar-Daylight-v2/annotations/lunr-anno-1.json", "https://yurilong.github.io/Lunar-Daylight-v2/annotations/lunr-anno-2.json", "https://yurilong.github.io/Lunar-Daylight-v2/annotations/lunr-anno-4.json" ],
   "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/annotations/collection.json",
   "label" : "All annotations loaded in yurilong/Lunar-Daylight-v2 project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
