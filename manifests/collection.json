@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/manifests/manifest2.json",
     "label" : "Lunar Daylight v.1"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/manifests/lunr-manifest3.json",
+    "label" : "lun.r "
   } ]
 }
