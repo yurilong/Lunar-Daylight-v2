@@ -395,7 +395,6 @@
     "@id" : "http://example.org/iiif/book1/range/intro",
     "@type" : "sc:Range",
     "label" : "Philippp Otto Runge",
-    "viewingHint" : "paged",
     "canvases" : [ "http://c7a1f50f-6a26-4319-889d-4ef2a54f7cf3" ]
   }, {
     "@id" : "http://example.org/iiif/book1/range/intro",
