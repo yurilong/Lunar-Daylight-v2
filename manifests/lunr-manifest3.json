@@ -73,7 +73,7 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://iiif.archivelab.org/iiif/20210225-full-moon-1_202205/355,470,743/full/0/default.jpg",
+          "@id" : "https://iiif.archivelab.org/iiif/20210225-full-moon-1_202205/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
