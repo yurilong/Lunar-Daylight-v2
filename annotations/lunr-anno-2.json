@@ -1,0 +1,88 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The new moon lost in the sun's glare until its shadow passes between the Earth and Sun.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The new moon lost in the sun's glare until its shadow passes <em>between</em> the Earth and Sun.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "moon",
+      "@type" : "oa:Tag",
+      "chars" : "moon"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "new moon",
+      "@type" : "oa:Tag",
+      "chars" : "new moon"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105740737",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-05-19T12:55:36",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1652964936970",
+    "dcterms:modified" : "2022-05-19T18:21:25",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/manifests/lunr-manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=426,957,413,413"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M486.73222,1017.82667c38.12778,-34.6709 91.91318,-60.48914 145.95923,-60.45829v0v0c54.04605,0.03085 101.12922,24.18339 145.95923,60.45829c44.83001,36.2749 62.25486,91.55084 60.45829,145.95923c-1.79657,54.40839 -22.81456,107.94924 -60.45829,145.95923c-37.64373,38.00999 -91.91318,60.48914 -145.95923,60.45829c-54.04605,-0.03085 -107.86869,-22.57168 -145.95923,-60.45829c-38.09054,-37.88661 -60.44898,-91.11899 -60.45829,-145.95923c-0.00931,-54.84024 22.33051,-111.28833 60.45829,-145.95923z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_27830f6b-19e0-48ed-9bfb-0fa5635d1aa8\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ba6193\" stroke-width=\"17.27136\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://9c5ecdef-2974-4f2c-894a-46cd706258e6"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Sol, dimmed behind Luna, creates an otherworldly light, a unique color palette only seen during an eclipse.&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Sol, dimmed behind Luna, creates an otherworldly light, a unique color palette only seen during an eclipse.&nbsp;</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "sun",
+      "@type" : "oa:Tag",
+      "chars" : "sun"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "star",
+      "@type" : "oa:Tag",
+      "chars" : "star"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/105740737",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-05-19T12:57:12",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1652965032494",
+    "dcterms:modified" : "2022-05-19T18:21:21",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/manifests/lunr-manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=566,966,451,406"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M950.40313,1025.47459c-41.60733,-34.10444 -100.30122,-59.50087 -159.27953,-59.47053v0v0c-58.97831,0.03034 -110.35832,23.78829 -159.27953,59.47053c-48.92121,35.68224 -67.93627,90.05508 -65.97574,143.57455c1.96053,53.51947 24.89663,106.18556 65.97574,143.57455c41.07911,37.38899 100.30122,59.50087 159.27953,59.47053c58.97831,-0.03034 117.71283,-22.20291 159.27953,-59.47053c41.5667,-37.26762 65.96558,-89.63029 65.97574,-143.57455c0.01016,-53.94426 -24.36841,-109.47011 -65.97574,-143.57455z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_6d64315e-da46-411b-8f2b-06e076ca43db\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ba6193\" stroke-width=\"17.27136\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://9c5ecdef-2974-4f2c-894a-46cd706258e6"
+    } ]
+  } ],
+  "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/annotations/lunr-anno-2.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
