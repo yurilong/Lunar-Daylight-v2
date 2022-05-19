@@ -411,7 +411,7 @@
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
             "@id" : "https://iiifarchive.org.org/iiif/2022-bensonarray-1",
-            "profile" : "http://iiif.io/api/image/2/level0.json"
+            "profile" : "http://iiif.io/api/image/2/level2.json"
           },
           "height" : 4800,
           "width" : 4800
