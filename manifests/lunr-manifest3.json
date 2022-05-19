@@ -73,7 +73,7 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://iiif.archivelab.org/iiif/20210225-full-moon-1_202205/355,470,743,725/800,/0/default.jpg",
+          "@id" : "https://iiif.archivelab.org/iiif/20210225-full-moon-1_202205/355,470,743/800/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
@@ -379,24 +379,24 @@
       "@id" : "http://14ac299e-756f-4682-9b22-88209ddf0336",
       "@type" : "sc:Canvas",
       "label" : "The Benson Array",
-      "height" : 1920,
-      "width" : 1920,
+      "height" : 4800,
+      "width" : 4800,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://f0f1f4fc-c433-49b4-b366-fb046c0bd7b3",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/images/2022_lunarcolors-13/full/full/0/default.jpg",
+          "@id" : "https://iiif.archivelab.org/iiif/2022-bensonarray-1/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://yurilong.github.io/Lunar-Daylight-v2/images/2022_lunarcolors-13",
+            "@id" : "https://iiifarchive.org.org/iiif/2022-bensonarray-1",
             "profile" : "http://iiif.io/api/image/2/level0.json"
           },
-          "height" : 1920,
-          "width" : 1920
+          "height" : 4800,
+          "width" : 4800
         },
         "on" : "http://14ac299e-756f-4682-9b22-88209ddf0336"
       } ],
